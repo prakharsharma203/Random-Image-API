@@ -1,0 +1,16 @@
+{
+  "name": "random-images-api",
+  "version": "1.0.0",
+  "description": "Random image API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prakhar Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
